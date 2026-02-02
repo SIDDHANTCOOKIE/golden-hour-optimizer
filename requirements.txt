@@ -5,6 +5,5 @@ matplotlib
 folium
 pandas
 geopandas
-streamlit
+streamlit>=1.41.0
 streamlit-folium
-altair<5
