@@ -1,0 +1,10 @@
+osmnx
+scikit-learn
+networkx
+matplotlib
+folium
+pandas
+geopandas
+streamlit
+streamlit-folium
+folium
