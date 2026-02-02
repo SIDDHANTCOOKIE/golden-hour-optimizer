@@ -7,4 +7,4 @@ pandas
 geopandas
 streamlit
 streamlit-folium
-folium
+altair<5
